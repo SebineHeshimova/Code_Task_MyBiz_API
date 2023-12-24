@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "JyVxgL6vR7OwCQhzwAbca/lcdbPc1bjfgoBkdHT/2m4=",
+  "Hash": "S0ztoPPb6lR05pb+0l6FuGCJydlOh9sEzjsKd+L2+dw=",
   "Source": "MyBizAPI",
   "BasePath": "_content/MyBizAPI",
   "Mode": "Default",
@@ -10,10 +10,45 @@
     {
       "Name": "MyBizAPI\\wwwroot",
       "Source": "MyBizAPI",
-      "ContentRoot": "C:\\Users\\TTS\\Desktop\\MyBizAPI\\MyBizAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TTS\\Desktop\\Code_Task_MyBiz_API\\MyBizAPI\\MyBizAPI\\wwwroot\\",
       "BasePath": "_content/MyBizAPI",
       "Pattern": "**"
     }
   ],
-  "Assets": []
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\TTS\\Desktop\\Code_Task_MyBiz_API\\MyBizAPI\\MyBizAPI\\wwwroot\\uploads\\employee\\a456b2c1-0bad-4560-a113-eb0ae229429cproduct-13.jpg",
+      "SourceId": "MyBizAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\TTS\\Desktop\\Code_Task_MyBiz_API\\MyBizAPI\\MyBizAPI\\wwwroot\\",
+      "BasePath": "_content/MyBizAPI",
+      "RelativePath": "uploads/employee/a456b2c1-0bad-4560-a113-eb0ae229429cproduct-13.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\employee\\a456b2c1-0bad-4560-a113-eb0ae229429cproduct-13.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\TTS\\Desktop\\Code_Task_MyBiz_API\\MyBizAPI\\MyBizAPI\\wwwroot\\uploads\\employee\\fa8c52fc-cba0-4fc4-b28c-de5c5e56a213team-3.jpg",
+      "SourceId": "MyBizAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\TTS\\Desktop\\Code_Task_MyBiz_API\\MyBizAPI\\MyBizAPI\\wwwroot\\",
+      "BasePath": "_content/MyBizAPI",
+      "RelativePath": "uploads/employee/fa8c52fc-cba0-4fc4-b28c-de5c5e56a213team-3.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\employee\\fa8c52fc-cba0-4fc4-b28c-de5c5e56a213team-3.jpg"
+    }
+  ]
 }

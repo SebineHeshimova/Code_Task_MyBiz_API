@@ -2614,11 +2614,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TTS\\Desktop\\Code_Task_MyBizAPI\\MyBizAPI\\MyBizAPI\\MyBizAPI.csproj",
+      "projectUniqueName": "C:\\Users\\TTS\\Desktop\\Code_Task_MyBiz_API\\MyBizAPI\\MyBizAPI\\MyBizAPI.csproj",
       "projectName": "MyBizAPI",
-      "projectPath": "C:\\Users\\TTS\\Desktop\\Code_Task_MyBizAPI\\MyBizAPI\\MyBizAPI\\MyBizAPI.csproj",
+      "projectPath": "C:\\Users\\TTS\\Desktop\\Code_Task_MyBiz_API\\MyBizAPI\\MyBizAPI\\MyBizAPI.csproj",
       "packagesPath": "C:\\Users\\TTS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TTS\\Desktop\\Code_Task_MyBizAPI\\MyBizAPI\\MyBizAPI\\obj\\",
+      "outputPath": "C:\\Users\\TTS\\Desktop\\Code_Task_MyBiz_API\\MyBizAPI\\MyBizAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\TTS\\AppData\\Roaming\\NuGet\\NuGet.Config",

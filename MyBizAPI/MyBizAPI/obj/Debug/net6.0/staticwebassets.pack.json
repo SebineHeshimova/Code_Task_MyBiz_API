@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\TTS\\Desktop\\Code_Task_MyBiz_API\\MyBizAPI\\MyBizAPI\\wwwroot\\uploads\\employee\\a456b2c1-0bad-4560-a113-eb0ae229429cproduct-13.jpg",
+      "PackagePath": "staticwebassets\\uploads\\employee\\a456b2c1-0bad-4560-a113-eb0ae229429cproduct-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TTS\\Desktop\\Code_Task_MyBiz_API\\MyBizAPI\\MyBizAPI\\wwwroot\\uploads\\employee\\fa8c52fc-cba0-4fc4-b28c-de5c5e56a213team-3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\employee\\fa8c52fc-cba0-4fc4-b28c-de5c5e56a213team-3.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MyBizAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MyBizAPI.props",
+      "PackagePath": "build\\MyBizAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MyBizAPI.props",
+      "PackagePath": "buildMultiTargeting\\MyBizAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MyBizAPI.props",
+      "PackagePath": "buildTransitive\\MyBizAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

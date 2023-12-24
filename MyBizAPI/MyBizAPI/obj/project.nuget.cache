@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U9qTJzAlxj8r/weJgCA1RWZNcScO8aLyZH8WyGavh5tzWYZ1pWaHSH1L6V4F4WTj7ULmxohm83z5LPQqMBwV0w==",
+  "dgSpecHash": "7W41nGtqdH8qeQ/sXzmlwipCpnFjZ+Thg3+mkRni8/D/tUiNkDw9ledtc8Q2iz/SL30KV0uI3+WuqmxLGBQpPQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\TTS\\Desktop\\Code_Task_MyBizAPI\\MyBizAPI\\MyBizAPI\\MyBizAPI.csproj",
+  "projectFilePath": "C:\\Users\\TTS\\Desktop\\Code_Task_MyBiz_API\\MyBizAPI\\MyBizAPI\\MyBizAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\TTS\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\TTS\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
