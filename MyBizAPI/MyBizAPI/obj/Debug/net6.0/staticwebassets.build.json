@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "JyVxgL6vR7OwCQhzwAbca/lcdbPc1bjfgoBkdHT/2m4=",
+  "Source": "MyBizAPI",
+  "BasePath": "_content/MyBizAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MyBizAPI\\wwwroot",
+      "Source": "MyBizAPI",
+      "ContentRoot": "C:\\Users\\TTS\\Desktop\\MyBizAPI\\MyBizAPI\\wwwroot\\",
+      "BasePath": "_content/MyBizAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
